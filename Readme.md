@@ -1,4 +1,4 @@
-<p>Chatroom is a basic chat application in php. 
+<p>CZone is a basic chat application in php. 
 </p>
 
 
